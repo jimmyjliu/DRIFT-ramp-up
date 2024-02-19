@@ -6,3 +6,6 @@ _Discuss one possible metric that is important to evaluating points of interest 
 >
 >While I don’t exactly know where to find this data, my best guess would be any governmental website dealing with transportation (like Florida DOT) or potentially if Kaggle has any >data sets we can start and experiment with.
 
+# My Map
+
+![Elevation Contour Map](./my_map.png)
